@@ -111,7 +111,7 @@ CREATE TABLE users (
 
 ### 🔐 Login Page - `/login`
 
-![Login Page](./screenshots/login.png)
+![Login Page](./screenshot2/login.PNG)
 
 ---
 
