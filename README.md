@@ -6,16 +6,16 @@ A secure user authentication system built with **Node.js**, **Express**, **Postg
 
 ## 📌 Table of Contents
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Database Setup](#database-setup)
-- [Available Routes](#available-routes)
-- [Screenshots](#screenshots)
-- [Project Structure](#project-structure)
-- [Security Notes](#security-notes)
-- [License](#license)
-- [Author](#author)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Getting Started](#-getting-started)
+- [Database Setup](#-database-setup)
+- [Available Routes](#-available-routes)
+- [Screenshots](#-screenshots)
+- [Project Structure](#-project-structure)
+- [Security Notes](#-security-notes)
+- [License](#-license)
+- [Author](#-author)
 
 ---
 
