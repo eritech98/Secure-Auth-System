@@ -105,7 +105,7 @@ CREATE TABLE users (
 
 ### 🏠 Homepage - `/`
 
-![Homepage](./screenshots/homepage.png)
+![Homepage](./screenshot.PNG)
 
 ---
 
