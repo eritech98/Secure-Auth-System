@@ -123,7 +123,7 @@ CREATE TABLE users (
 
 ### 🎉 Secrets Page - After Successful Login
 
-![Secrets Page](./screenshots/secrets.png)
+![Secrets Page](./screenshot4.PNG)
 
 ---
 
