@@ -117,7 +117,7 @@ CREATE TABLE users (
 
 ### 📝 Register Page - `/register`
 
-![Register Page](./screenshots/register.png)
+![Register Page](./screenshot3.PNG)
 
 ---
 
