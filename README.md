@@ -24,7 +24,7 @@ A simple Node.js application with PostgreSQL for secure user registration and lo
 - Secure PostgreSQL integration with parameterized queries
 - Simple EJS frontend templates
 - Clear error handling and user feedback
-- smtp gmail service
+- smtp gmail service for verificatin,reset password e.tc
 
 ---
 
