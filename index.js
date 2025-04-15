@@ -3,17 +3,18 @@ import bodyParser from "body-parser";
 import morgan from "morgan";
 import pg from "pg";
 import bcrypt from "bcrypt";
+import dotenv from "dotenv";
 
 const app = express();
 const port = 3000;
 const SaltRounds = 12;
 
 const db = new pg.Client({
-    user: "postgres",
-    host: "localhost",
-    database: "Secure",
-    password: "Maranda@2018",
-    port: 5432
+    user: process.env.USERNAME_DB,
+    host: process.env.LOCALHOST_DB,
+    database: process.env.SECURE_DB,
+    password: process.env.MY_DB_PASSWORD,
+    port: process.env.PORT
 });
 db.connect();
 
